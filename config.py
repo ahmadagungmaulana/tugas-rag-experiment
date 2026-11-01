@@ -23,7 +23,7 @@ GROQ_MODEL = os.getenv(
     "openai/gpt-oss-120b", 
 ) 
  
-TOP_K = 4 
+TOP_K = 4
 BRIEF_TOP_K = 6 
  
 # Token-aware chunking. 
